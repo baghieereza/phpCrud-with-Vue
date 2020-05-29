@@ -6,4 +6,3 @@ a php crud using oop and vue.js
 - php
 - oop
 - vue.js
-- api
